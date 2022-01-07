@@ -605,3 +605,9 @@ public class Honda extends Car{}
 - [x] Composition is a part/hole relationship where an object is composed of one or more other objects, each of which is considered a part of the whole.
 - [ ] Composition is a binding where the class/name association is not made until the object designated by the name is created at execution time
 - [ ] Composition is a process of collecting classes that provide a set of services for a particular domain
+
+#### Q55. What parameters are required to be passed to a class constructor?
+  - [ ] reference to base class
+  - [x] none
+  - [ ] reference to subclass
+  - [ ] reference to this pointer
